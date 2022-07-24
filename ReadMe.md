@@ -4,11 +4,6 @@
 
 
 
-<br>
-
-
-## 2022
-
 - *Does GLP-1 receptor agonist liraglutide alter food-related sensory pleasure in patients with obesity? A randomized controlled trial*. G. Coppin, D. Muñoz Tord, E. R. Pool, L. Locatelli, A. Achaibou, A. Erdemli, L. Leon Perez, L> Wuensch, D. Cereghetti, A. Golay, D. Sander, Z. Pataky **Preprint**. [Paper](https://www.researchsquare.com/article/rs-1722974/latest.pdf)
 
 
